@@ -1,0 +1,27 @@
+{'team': 'Brooklyn Nets', 'number_players': 39}
+{'team': 'Denver Nuggets', 'number_players': 37}
+{'team': 'Milwaukee Bucks', 'number_players': 36}
+{'team': 'Los Angeles Lakers', 'number_players': 34}
+{'team': 'Philadelphia 76ers', 'number_players': 34}
+{'team': 'Boston Celtics', 'number_players': 33}
+{'team': 'Los Angeles Clippers', 'number_players': 31}
+{'team': 'Miami Heat', 'number_players': 30}
+{'team': 'Phoenix Suns', 'number_players': 28}
+{'team': 'Dallas Mavericks', 'number_players': 26}
+{'team': 'Utah Jazz', 'number_players': 26}
+{'team': 'Toronto Raptors', 'number_players': 25}
+{'team': 'Atlanta Hawks', 'number_players': 24}
+{'team': 'Minnesota Timberwolves', 'number_players': 21}
+{'team': 'Portland Trail Blazers', 'number_players': 21}
+{'team': 'Memphis Grizzlies', 'number_players': 20}
+{'team': 'New York Knicks', 'number_players': 19}
+{'team': 'Golden State Warriors', 'number_players': 18}
+{'team': 'Washington Wizards', 'number_players': 14}
+{'team': 'Houston Rockets', 'number_players': 14}
+{'team': 'Oklahoma City Thunder', 'number_players': 14}
+{'team': 'Cleveland Cavaliers', 'number_players': 13}
+{'team': 'Sacramento Kings', 'number_players': 13}
+{'team': 'Chicago Bulls', 'number_players': 12}
+{'team': 'New Orleans Pelicans', 'number_players': 12}
+{'team': 'Indiana Pacers', 'number_players': 11}
+{'team': 'Orlando Magic', 'number_players': 11}

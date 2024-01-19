@@ -1,0 +1,12 @@
+{'averageFG%': 0.47544329481210895, 'year': 2023, 'season_type': 'Regular Season'}
+{'averageFG%': 0.4660177143150392, 'year': 2021, 'season_type': 'Regular Season'}
+{'averageFG%': 0.4629219719892506, 'year': 2021, 'season_type': 'Post Season'}
+{'averageFG%': 0.4612574249431956, 'year': 2022, 'season_type': 'Regular Season'}
+{'averageFG%': 0.4611801454039529, 'year': 2023, 'season_type': 'Post Season'}
+{'averageFG%': 0.46050619646437035, 'year': 2019, 'season_type': 'Regular Season'}
+{'averageFG%': 0.4602823247159279, 'year': 2018, 'season_type': 'Regular Season'}
+{'averageFG%': 0.46026872808805325, 'year': 2020, 'season_type': 'Regular Season'}
+{'averageFG%': 0.4572892454220761, 'year': 2020, 'season_type': 'Post Season'}
+{'averageFG%': 0.45619481835287307, 'year': 2018, 'season_type': 'Post Season'}
+{'averageFG%': 0.4555713237764204, 'year': 2022, 'season_type': 'Post Season'}
+{'averageFG%': 0.44272523959421467, 'year': 2019, 'season_type': 'Post Season'}

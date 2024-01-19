@@ -1,0 +1,12 @@
+{'percentageOfPointsFrom2PMAndFT': 0.7046489048583771, 'year': 2018, 'season_type': 'Regular Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6997431556826805, 'year': 2018, 'season_type': 'Post Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6936390236198826, 'year': 2019, 'season_type': 'Regular Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6845507653292274, 'year': 2019, 'season_type': 'Post Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6776068740759221, 'year': 2023, 'season_type': 'Regular Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6725408922121496, 'year': 2020, 'season_type': 'Regular Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6718543891171824, 'year': 2023, 'season_type': 'Post Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6630172130683841, 'year': 2022, 'season_type': 'Regular Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6605528053244948, 'year': 2021, 'season_type': 'Post Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6604944007314544, 'year': 2021, 'season_type': 'Regular Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6545557717250324, 'year': 2022, 'season_type': 'Post Season'}
+{'percentageOfPointsFrom2PMAndFT': 0.6418652975064866, 'year': 2020, 'season_type': 'Post Season'}

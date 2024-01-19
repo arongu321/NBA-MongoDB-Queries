@@ -1,0 +1,19 @@
+{'name': 'Alize Johnson', 'year': 2022, 'teams': ['New Orleans Pelicans', 'Washington Wizards', 'Chicago Bulls']}
+{'name': 'Damian Jones', 'year': 2021, 'teams': ['Phoenix Suns', 'Sacramento Kings', 'Los Angeles Lakers']}
+{'name': 'Danuel House Jr.', 'year': 2022, 'teams': ['New York Knicks', 'Utah Jazz', 'Houston Rockets']}
+{'name': 'Gary Clark', 'year': 2021, 'teams': ['Denver Nuggets', 'Philadelphia 76ers', 'Orlando Magic']}
+{'name': 'Greg Monroe', 'year': 2022, 'teams': ['Milwaukee Bucks', 'Washington Wizards', 'Utah Jazz', 'Minnesota Timberwolves']}
+{'name': 'Ignas Brazdeikis', 'year': 2021, 'teams': ['Orlando Magic', 'New York Knicks', 'Philadelphia 76ers']}
+{'name': 'Isaiah Thomas', 'year': 2022, 'teams': ['Dallas Mavericks', 'Los Angeles Lakers', 'Charlotte Hornets']}
+{'name': 'James Ennis III', 'year': 2022, 'teams': ['Denver Nuggets', 'Brooklyn Nets', 'Los Angeles Clippers']}
+{'name': 'Jeff Dowtin', 'year': 2022, 'teams': ['Orlando Magic', 'Milwaukee Bucks', 'Golden State Warriors']}
+{'name': 'Juancho Hernangómez', 'year': 2022, 'teams': ['San Antonio Spurs', 'Boston Celtics', 'Utah Jazz']}
+{'name': 'Justin Robinson', 'year': 2022, 'teams': ['Detroit Pistons', 'Milwaukee Bucks', 'Sacramento Kings']}
+{'name': 'Luke Kornet', 'year': 2022, 'teams': ['Cleveland Cavaliers', 'Milwaukee Bucks', 'Boston Celtics']}
+{'name': 'Moritz Wagner', 'year': 2021, 'teams': ['Washington Wizards', 'Boston Celtics', 'Orlando Magic']}
+{'name': 'Norvel Pelle', 'year': 2021, 'teams': ['Brooklyn Nets', 'New York Knicks', 'Sacramento Kings']}
+{'name': 'Rodions Kurucs', 'year': 2021, 'teams': ['Brooklyn Nets', 'Houston Rockets', 'Milwaukee Bucks']}
+{'name': 'Tomáš Satoranský', 'year': 2022, 'teams': ['Washington Wizards', 'New Orleans Pelicans', 'San Antonio Spurs']}
+{'name': 'Tristan Thompson', 'year': 2022, 'teams': ['Indiana Pacers', 'Sacramento Kings', 'Chicago Bulls']}
+{'name': 'Victor Oladipo', 'year': 2021, 'teams': ['Indiana Pacers', 'Houston Rockets', 'Miami Heat']}
+{'name': 'Wenyen Gabriel', 'year': 2022, 'teams': ['Los Angeles Lakers', 'Brooklyn Nets', 'Los Angeles Clippers']}
